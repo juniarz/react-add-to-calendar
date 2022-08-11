@@ -1,8 +1,8 @@
 {
   "author": "Jason Salzman",
-  "name": "@esetnik/react-add-to-calendar",
+  "name": "@juniarz/react-add-to-calendar",
   "description": "A simple and reusable add to calendar button component for React",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "license": "MIT",
   "homepage": "https://github.com/jasonsalzman/react-add-to-calendar",
   "repository": {
